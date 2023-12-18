@@ -1,5 +1,5 @@
 <header>
-
+Hola Mundo!
 <!--
   <<< Author notes: Course header >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
@@ -8,7 +8,7 @@
 -->
 
 # Introduction to GitHub
-
+Hola holita
 _Get started using GitHub in less than an hour._
 
 </header>
